@@ -1,0 +1,17 @@
+{
+  "name": "shivi-industries-solar",
+  "version": "1.0.0",
+  "description": "Shivi Industries - Solar Energy Business Website (HTML/CSS/JS + Node/Express)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["solar", "shivi-industries", "express"],
+  "author": "Shivi Industries",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.4.0"
+  }
+}

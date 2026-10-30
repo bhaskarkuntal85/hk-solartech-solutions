@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Customer inquiries (private - never commit)
+data/inquiries.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment (if used later)
+.env
