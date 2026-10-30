@@ -6,7 +6,8 @@
 // ============================================================
 module.exports = {
   // ⭐ YAHAN APNA REAL WHATSAPP NUMBER DALO (placeholder hai abhi)
-  whatsappNumber: "91XXXXXXXXXX",
+  whatsappNumber: "+91-9690904045",
+  GmailId: "hksolartechsolutions@gmail.com",
 
   // Business details (editable)
   businessName: "Shivi Industries",
